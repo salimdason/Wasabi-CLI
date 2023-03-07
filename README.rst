@@ -21,11 +21,12 @@ WasabiCLI
 
 
 
-CLI application for management of versioned Wasabi S3 buckets
+CLI application for management of versioned Wasabi S3 buckets. This should also in theory work for AWS S3 buckets.
+
 
 
 * Free software: GNU General Public License v3
-* Documentation: https://wasabicli.readthedocs.io.
+* Documentation: https://wasabi-cli.readthedocs.io/en/latest/index.html
 
 
 Features
