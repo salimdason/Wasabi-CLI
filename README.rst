@@ -29,10 +29,11 @@ CLI application for management of versioned Wasabi S3 buckets. This should also 
 * Documentation: https://wasabi-cli.readthedocs.io/en/latest/index.html
 
 
+
 Features
 --------
 1. Delete only non-current objects
 2. Delete both current and non-current objects
 3. Purge delete markers from bucket
-4. Delete bucket (after running above commands to ensure it's empty)
+4. Delete bucket (Runs all commands above to ensure bucket is empty before deletion)
 
